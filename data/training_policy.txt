@@ -1,0 +1,8 @@
+Training Policy
+
+Every employee must complete 3 mandatory training sessions annually:
+- Cybersecurity Awareness
+- Workplace Ethics
+- Data Privacy
+Additional upskilling programs are available upon manager's recommendation.
+Certificates are issued via the LMS portal.

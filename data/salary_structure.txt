@@ -1,0 +1,8 @@
+Salary Structure
+
+The salary is broken down as follows:
+- Basic: 40%
+- HRA: 20%
+- Special Allowance: 30%
+- Provident Fund: 10%
+Salaries are credited by the 5th of every month. Payslips are available on the HR portal.
